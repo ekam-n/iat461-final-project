@@ -14,4 +14,4 @@ funding. The data is the IMDb Top 1000 dataset from Kaggle.
 - `data/` — dataset and column dictionary
 
 ## Status
-Milestone 2: initial EDA in progress.
+Final delivery submitted. Open to revisions based on client feedback.
