@@ -12,6 +12,7 @@ funding. The data is the IMDb Top 1000 dataset from Kaggle.
 ## Contents
 - `notebook.ipynb` — main project notebook (EDA, modeling, interpretation)
 - `data/` — dataset and column dictionary
+- `videowalkthough` - https://www.youtube.com/watch?v=tX0-Cwpsq24
 
 ## Status
 Final delivery submitted. Open to revisions based on client feedback.
